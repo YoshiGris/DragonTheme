@@ -1,0 +1,59 @@
+{
+    "MainColor": 
+    {
+        "r": 58,
+        "g": 58,
+        "b": 58,
+        "a": 255
+    },
+    
+    "SecondaryColor": 
+    {
+        "r": 32,
+        "g": 32,
+        "b": 32,
+        "a": 255
+    },
+    
+    "ColorButtonTabs": 
+    {
+        "r": 1,
+        "g": 12,
+        "b": 23,
+        "a": 255
+    },
+    
+    "ForegroundColor": 
+    {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 255
+    },
+    
+    "ToolbarButtonForegroundColor": 
+    {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 255
+    },
+    
+    "ToolbarRoundButtonBackground": 
+    {
+        "r": 0,
+        "g": 161,
+        "b": 5,
+        "a": 255
+    },
+    
+    "ToolbarRoundButtonForeground": 
+    {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 255
+    },
+    
+    "BackgroundImage": "{ADDON-PATH}/assets/dragon.png"
+}
